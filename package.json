@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "http-server -o ./",
+    "deploy": "firebase deploy --token $FIREBASE_TOKEN",
+    "test": "echo \"Error: no test specified\" "
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/joshuamshana/selltoday/issues"
   },
-  "homepage": "https://github.com/joshuamshana/selltoday#readme"
+  "homepage": "https://github.com/joshuamshana/selltoday#readme",
+  "devDependencies": {
+    "firebase-tools": "^7.12.1",
+    "http-server": "^0.12.1"
+  }
 }
