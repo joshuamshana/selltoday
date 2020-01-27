@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -30,7 +30,7 @@ function App() {
                     <div class="gallery full-width">
                         <div class="col-lg-3 col-md-6 items graphic">
                             <div class="item-img">
-                                <img src="img/portfolio/1.jpg" alt="image" />
+                                <img src="img/portfolio/1.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
@@ -44,7 +44,7 @@ function App() {
                         </div>
                         <div class="col-lg-3 col-md-6 items web">
                             <div class="item-img">
-                                <img src="img/portfolio/2.jpg" alt="image" />
+                                <img src="img/portfolio/2.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
@@ -58,7 +58,7 @@ function App() {
                         </div>
                         <div class="col-lg-3 col-md-6 items brand">
                             <div class="item-img">
-                                <img src="img/portfolio/3.jpg" alt="image" />
+                                <img src="img/portfolio/3.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
@@ -72,7 +72,7 @@ function App() {
                         </div>
                         <div class="col-lg-3 col-md-6 items graphic">
                             <div class="item-img">
-                                <img src="img/portfolio/4.jpg" alt="image" />
+                                <img src="img/portfolio/4.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
@@ -86,7 +86,7 @@ function App() {
                         </div>
                         <div class="col-lg-3 col-md-6 items web">
                             <div class="item-img">
-                                <img src="img/portfolio/5.jpg" alt="image" />
+                                <img src="img/portfolio/5.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
@@ -100,7 +100,7 @@ function App() {
                         </div>
                         <div class="col-lg-3 col-md-6 items brand">
                             <div class="item-img">
-                                <img src="img/portfolio/6.jpg" alt="image" />
+                                <img src="img/portfolio/6.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
@@ -114,7 +114,7 @@ function App() {
                         </div>
                         <div class="col-lg-3 col-md-6 items brand">
                             <div class="item-img">
-                                <img src="img/portfolio/7.jpg" alt="image" />
+                                <img src="img/portfolio/7.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
@@ -128,7 +128,7 @@ function App() {
                         </div>
                         <div class="col-lg-3 col-md-6 items graphic">
                             <div class="item-img">
-                                <img src="img/portfolio/8.jpg" alt="image" />
+                                <img src="img/portfolio/8.jpg" alt="" />
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
