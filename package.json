@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && firebase deploy --token $FIREBASE_TOKEN"
+    "deploy": "firebase deploy --token $FIREBASE_TOKEN"
   },
   "eslintConfig": {
     "extends": "react-app"
