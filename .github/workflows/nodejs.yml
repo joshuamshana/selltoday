@@ -23,9 +23,9 @@ jobs:
     - name: npm install, build, and test
       run: |
         yarn install --frozen-lockfile
-        yarn run build --if-present
+        yarn run build
         # yarn test
-        yarn run deploy --if-present
+        yarn run deploy
       env:
         CI: false
         FIREBASE_TOKEN:  ${{ secrets.FIREBASE_TOKEN }}
