@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/joshuamshana/selltoday/static/css/main.d1b05096.chunk.css",
+    "main.js": "/joshuamshana/selltoday/static/js/main.8d87d59b.chunk.js",
+    "main.js.map": "/joshuamshana/selltoday/static/js/main.8d87d59b.chunk.js.map",
+    "runtime-main.js": "/joshuamshana/selltoday/static/js/runtime-main.c83eeef6.js",
+    "runtime-main.js.map": "/joshuamshana/selltoday/static/js/runtime-main.c83eeef6.js.map",
+    "static/js/2.bd21a746.chunk.js": "/joshuamshana/selltoday/static/js/2.bd21a746.chunk.js",
+    "static/js/2.bd21a746.chunk.js.map": "/joshuamshana/selltoday/static/js/2.bd21a746.chunk.js.map",
+    "index.html": "/joshuamshana/selltoday/index.html",
+    "precache-manifest.3ce4c90891d7574e8f2e95b8ea7dba6c.js": "/joshuamshana/selltoday/precache-manifest.3ce4c90891d7574e8f2e95b8ea7dba6c.js",
+    "service-worker.js": "/joshuamshana/selltoday/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/joshuamshana/selltoday/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bd21a746.chunk.js.LICENSE": "/joshuamshana/selltoday/static/js/2.bd21a746.chunk.js.LICENSE",
+    "static/media/logo.svg": "/joshuamshana/selltoday/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c83eeef6.js",
+    "static/js/2.bd21a746.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8d87d59b.chunk.js"
+  ]
+}
