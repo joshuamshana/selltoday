@@ -95,28 +95,7 @@
         <!-- navbar links -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link active" href="#" data-scroll-nav="0">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#" data-scroll-nav="1">Services</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#" data-scroll-nav="2">Portfolio</a>
-                </li>
-                <!--
-                <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="3">Team</a>
-                </li>
-                -->
-                <li class="nav-item">
-                    <a class="nav-link" href="#" data-scroll-nav="4">Price</a>
-                </li>
-                <!--
-                <li class="nav-item">
-                  <a class="nav-link" href="#" data-scroll-nav="5">Blog</a>
-                </li>
-                -->
+
 
                 <li class="nav-item">
                     <a class="nav-link" href="#" data-scroll-nav="6">Contact</a>
@@ -646,18 +625,14 @@
                         <div class="col-lg-3 col-md-6 items graphic">
                             <div class="item-img">
                                 <img src="img/portfolio/9.jpg" alt="" />
-                                <a href="link.html">
-                                <img src="img/new.png" class="animated flash infinite">
-                            		</a>
                                 <div class="item-img-overlay">
                                     <div class="overlay-info full-width">
                                         <p>Logo | Branding</p>
                                         <h6>Creative Web Design</h6>
-                                        <a href="link.html" class="link">
-                                        <p>for more information <a href=""> <p>click here</a></p>
-                                        </a>
-                                        <a href="img/portfolio/9.jpg"  class="popimg">
-                                        	
+                                        <a href="img/portfolio/8.jpg" class="popimg">
+                                        	<a href="#" class="butn butn-light mt-50">
+                   							 <span>Contact Us</span>
+               								 </a>
                                             <span class="icon"><i class="fas fa-long-arrow-alt-right"></i></span>
                                         </a>
                                     </div>
